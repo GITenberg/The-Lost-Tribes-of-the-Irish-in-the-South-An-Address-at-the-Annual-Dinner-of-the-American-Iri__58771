@@ -1,5 +1,8 @@
 _repo: The-Lost-Tribes-of-the-Irish-in-the-South-An-Address-at-the-Annual-Dinner-of-the-American-Iri__58771
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58771-h/images/cover.jpg
 creator:
   author:
     agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/559
     wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58771#The-Lost-Tribes-of-the-Irish-in-the-South-An-Address-at-the-Annual-Dinner-of-the-American-Iri_
 gutenberg_issued: '2019-01-26'
 gutenberg_type: Text
 identifiers:
